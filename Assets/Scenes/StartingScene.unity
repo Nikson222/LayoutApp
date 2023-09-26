@@ -585,7 +585,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98a77f4908cf1db43a0c9602d5f7abd4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _sceneName: LayoutScene1
+  _sceneName: LayoutScene
   _sceneLoader: {fileID: 442444419}
 --- !u!1 &1638371523
 GameObject:
